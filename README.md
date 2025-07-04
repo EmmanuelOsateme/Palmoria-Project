@@ -11,9 +11,7 @@ The data used for this project was sent directly from the Incubator Hub and is s
 
 ### Tools Used
 - **Power BI** (for creating a report) *[download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)*
-  - For Data cleaning
-  - For Data transformation
-  -        
+
 ### Data Cleaning and Preparation
 In the initial phase of the data cleaning and preparation, we performed the following actions;
 1. **Data loading and Inspection**
