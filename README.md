@@ -10,7 +10,7 @@ The project is intended to identify and assess the gender inequality pay gap tha
 The data used for this project was sent directly from the Incubator Hub and is solely for the project alone.
 
 ### Tools Used
-- **Power BI** (for creating a report) *[download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)*
+- **Power BI** *[download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)*
 
 ### Data Cleaning and Preparation
 In the initial phase of the data cleaning and preparation, we performed the following actions;
